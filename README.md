@@ -1,1 +1,1 @@
-"# Ai-Checkers-Game" 
+"# Ai-Checkers-Game" using minimax algorithm with simple ui
